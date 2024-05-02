@@ -1,4 +1,10 @@
-### Hi there 👋
+### I'm Filippo
+
+- I'm currently working as a web and mobile dev at KeepItNoted.app
+- I know Java, python, swift and currently mastering Javascript
+- I am a Computer Science student at City, University of London
+- I am passionate about Operating Systems
+- My mail is: filippo.vicini2@gmail.com
 
 <!--
 **FilippoVicini/FilippoVicini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
