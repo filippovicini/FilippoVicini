@@ -6,6 +6,8 @@
 - I am passionate about Operating Systems
 - My mail is: filippo.vicini2@gmail.com
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FilippoVicini&show_icons=true&locale=en" alt="theperu" /></p>
+
 <!--
 **FilippoVicini/FilippoVicini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
