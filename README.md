@@ -1,4 +1,5 @@
-### I'm Filippo
+<h1 align="center">Hi 👋, I'm ElKanguroVolante</h1>
+<h3 align="center"></h3>
 
 - I'm currently working as a web and mobile dev at KeepItNoted.app
 - I know Java, python, swift and currently mastering Javascript
