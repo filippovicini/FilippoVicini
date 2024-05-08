@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm ElKanguroVolante</h1>
 <h3 align="center"></h3>
 
-- I'm currently working as a web and mobile dev at KeepItNoted.app
-- I know Java, python, swift and currently mastering Javascript
-- I am a Computer Science student at City, University of London
-- I am passionate about Operating Systems
-- My mail is: filippo.vicini2@gmail.com
+- 📚 I study Computer Science at the University of Pisa
+- 👀 Many interests from Startups to low level programming, A.I and mobile development 
+- 🔭 In my free time I’m currently working on <a href="https://www.keepitnoted.app/">KeepItNoted</a>
+- 🌱 I’m currently learning SwiftUI, Javascript and C++
+-  I am passionate about Operating Systems
+- 📫 You can reach me at: filippo.vicini2@gmail.com
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FilippoVicini&show_icons=true&locale=en" alt="theperu" /></p>
 
 <!--
 **FilippoVicini/FilippoVicini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
