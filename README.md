@@ -4,7 +4,7 @@
 - 📚 I study Computer Science at City University of London
 - 👀 Many interests from Startups to low level programming, A.I and mobile development 
 - 🔭 In my free time I’m currently working on <a href="https://www.keepitnoted.app/">KeepItNoted</a>
-- 🌱 I’m currently learning SwiftUI, Javascript and C++
+- 🌱 I’m currently learning Swift, Javascript and C++
 - 📫 You can reach me at: filippo.vicini2@gmail.com
 
 
