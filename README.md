@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ElKanguroVolante</h1>
+<h1 align="center">Hi 👋, I'm Filippo</h1>
 <h3 align="center"></h3>
 
 - 📚 I study Computer Science at City University of London
