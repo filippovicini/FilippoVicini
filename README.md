@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Filippo</h1>
 <h3 align="center"></h3>
 
-- 📚 I study Computer Science at City University of London
-- 👀 Many interestsfrom Startups to low level programming and mobile development 
+- 📚 I study Computer Science 
+- 👀 Many interests from Startups to low level programming and mobile development 
 - 🔭 In my free time I’m currently working on <a href="https://www.ditta.io/">Ditta</a>
-- 🌱 I’m currently learning Go, Javascript and C++
 - 📫 You can reach me at: filippo.vicini2@gmail.com
 
 
